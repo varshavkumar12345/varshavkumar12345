@@ -3,6 +3,21 @@
 I'm an under grad studying Artificial Intelligence and Machine Learning at BMS College of Engineering.
 
 
+## 🧰 Tech Stack
+
+**Languages:**  
+`Python` · `Java` · `C` · `C++`
+
+**Frameworks & Libraries:**  
+`Pandas` · `scikit-learn` · `Pytorch` · `TensorFlow` · `Flask` · `Matplotlib` · `Seaborn` · `Statsmodels` · `SciPy` · `Sympy` · `OpenCV` 
+
+**Databases:**  
+`MongoDB` · `MySQL` 
+
+**Tools & Platforms:**  
+`Git` · `GitHub` · `Docker` · `Linux` · `ender` · `AWS`
+
+
 
 ## 📊 GitHub Stats
 
