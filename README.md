@@ -2,6 +2,7 @@
 
 I'm an under grad studying Artificial Intelligence and Machine Learning at BMS College of Engineering.
 
+---
 
 ## 🧰 Tech Stack
 
@@ -17,7 +18,7 @@ I'm an under grad studying Artificial Intelligence and Machine Learning at BMS C
 **Tools & Platforms:**  
 `Git` · `GitHub` · `Docker` · `Linux` · `Render` · `AWS` · `Google Cloud`
 
-
+---
 
 ## 📊 GitHub Stats
 
@@ -26,6 +27,7 @@ I'm an under grad studying Artificial Intelligence and Machine Learning at BMS C
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=varshavkumar12345&layout=compact&theme=tokyonight" height="160px" />
 </p>
 
+---
 
 ## 🌐 Connect With Me
 
