@@ -15,7 +15,7 @@ I'm an under grad studying Artificial Intelligence and Machine Learning at BMS C
 `MongoDB` · `MySQL` 
 
 **Tools & Platforms:**  
-`Git` · `GitHub` · `Docker` · `Linux` · `ender` · `AWS`
+`Git` · `GitHub` · `Docker` · `Linux` · `Render` · `AWS` · `Google Cloud`
 
 
 
