@@ -1,5 +1,9 @@
 ## Hi there 👋 I'm Varsha V Kumar
 
+I'm an under grad studying Artificial Intelligence and Machine Learning at BMS College of Engineering.
+
+
+
 ## 📊 GitHub Stats
 
 <p align="center">
