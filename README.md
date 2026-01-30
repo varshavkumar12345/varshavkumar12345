@@ -10,7 +10,7 @@ I'm an under grad studying Artificial Intelligence and Machine Learning at BMS C
 `Python` · `Java` · `C` · `C++`
 
 **Frameworks & Libraries:**  
-`Pandas` · `scikit-learn` · `Transformers` · `Keras` · `TensorFlow` · `Flask` · `Matplotlib` · `Seaborn` · `Statsmodels` · `SciPy` · `Sympy` · `OpenCV` 
+`Pandas` · `scikit-learn` · `Transformers` · `Keras` · `TensorFlow` · `Flask` · `Matplotlib` · `Seaborn` · `Statsmodels` · `SciPy` · `Sympy` · `OpenCV` · `AstroPy`
 
 **Databases:**  
 `MongoDB` · `MySQL` · `ChromaDB`
