@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Varsha V Kumar
 
-I'm an under grad studying Artificial Intelligence and Machine Learning at BMS College of Engineering.
+I'm an under grad studying Artificial Intelligence and Machine Learning at BMS College of Engineering. Currently focusing on LLM security. 🦠
 
 ---
 
